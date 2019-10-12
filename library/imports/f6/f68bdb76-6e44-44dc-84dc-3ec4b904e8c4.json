@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ender",
+    "texture": "27043a6a-821d-48a5-bba6-dae3c7b56040",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      65,
+      70
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

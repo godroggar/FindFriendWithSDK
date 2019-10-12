@@ -1,0 +1,129 @@
+2019-10-12T06:16:57.450Z - normal: Load ~/.CocosCreator/settings.json
+2019-10-12T06:16:58.658Z - normal: Initializing Asset Database
+2019-10-12T06:16:58.712Z - normal: checking language setting...
+2019-10-12T06:16:58.712Z - normal: Language: zh
+2019-10-12T06:16:59.789Z - success: preview server running at http://localhost:7456
+2019-10-12T06:16:59.792Z - success: protocol editor-framework registered
+2019-10-12T06:16:59.792Z - success: protocol app registered
+2019-10-12T06:16:59.792Z - success: protocol theme registered
+2019-10-12T06:16:59.792Z - success: protocol packages registered
+2019-10-12T06:16:59.792Z - success: protocol uuid registerred
+2019-10-12T06:16:59.792Z - success: protocol db registerred
+2019-10-12T06:16:59.792Z - success: protocol thumbnail registerred
+2019-10-12T06:16:59.792Z - success: protocol unpack registerred
+2019-10-12T06:16:59.792Z - success: protocol disable-commonjs registerred
+2019-10-12T06:16:59.976Z - normal: connected!
+2019-10-12T06:16:59.977Z - normal: Check project H:\CocosProject\FindFriendWithSDK
+2019-10-12T06:16:59.980Z - normal: Initializing project H:\CocosProject\FindFriendWithSDK
+2019-10-12T06:17:00.747Z - normal: Initializing Cocos2d
+2019-10-12T06:17:02.020Z - normal: Initializing engine extends
+2019-10-12T06:17:02.048Z - success: asset-db-debugger loaded
+2019-10-12T06:17:02.051Z - success: baidu-adapter loaded
+2019-10-12T06:17:02.055Z - success: code-editor loaded
+2019-10-12T06:17:02.059Z - success: color-picker loaded
+2019-10-12T06:17:02.207Z - success: fb-audience-network loaded
+2019-10-12T06:17:02.297Z - success: fb-live-stream loaded
+2019-10-12T06:17:02.303Z - success: google-play-instant loaded
+2019-10-12T06:17:02.308Z - success: huawei-runtime loaded
+2019-10-12T06:17:02.308Z - success: jsb-adapter loaded
+2019-10-12T06:17:02.317Z - success: oppo-runtime loaded
+2019-10-12T06:17:02.322Z - success: package-manager loaded
+2019-10-12T06:17:02.485Z - success: qqplay-adapter loaded
+2019-10-12T06:17:02.487Z - success: runtime-dev-tools loaded
+2019-10-12T06:17:02.492Z - success: sdkbox loaded
+2019-10-12T06:17:02.496Z - success: tester loaded
+2019-10-12T06:17:02.500Z - success: ui-grid loaded
+2019-10-12T06:17:02.503Z - success: ui-kit-preview-extra loaded
+2019-10-12T06:17:02.505Z - success: ui-kit-preview loaded
+2019-10-12T06:17:02.507Z - success: ui-kit loaded
+2019-10-12T06:17:02.509Z - success: ui-tree loaded
+2019-10-12T06:17:02.515Z - success: vivo-runtime loaded
+2019-10-12T06:17:02.516Z - success: weapp-adapter loaded
+2019-10-12T06:17:02.566Z - success: assets loaded
+2019-10-12T06:17:02.568Z - success: builder loaded
+2019-10-12T06:17:03.152Z - success: cocos-services loaded
+2019-10-12T06:17:03.161Z - success: console loaded
+2019-10-12T06:17:03.210Z - success: fb-instant-games loaded
+2019-10-12T06:17:03.211Z - success: google-instant-games loaded
+2019-10-12T06:17:03.216Z - success: hierarchy loaded
+2019-10-12T06:17:03.219Z - success: inspector loaded
+2019-10-12T06:17:03.220Z - success: keystore loaded
+2019-10-12T06:17:03.229Z - success: node-library loaded
+2019-10-12T06:17:03.231Z - success: package-asset loaded
+2019-10-12T06:17:03.235Z - success: preferences loaded
+2019-10-12T06:17:03.237Z - success: project-exporter loaded
+2019-10-12T06:17:03.245Z - success: project-importer loaded
+2019-10-12T06:17:03.248Z - success: project-settings loaded
+2019-10-12T06:17:03.253Z - success: scene loaded
+2019-10-12T06:17:03.258Z - success: simulator-debugger loaded
+2019-10-12T06:17:03.261Z - success: sprite-editor loaded
+2019-10-12T06:17:03.267Z - success: store loaded
+2019-10-12T06:17:03.270Z - success: timeline loaded
+2019-10-12T06:17:03.285Z - success: i18n loaded
+2019-10-12T06:17:27.001Z - info: Cocos Services load base data!
+2019-10-12T06:17:30.213Z - normal: Loading packages
+2019-10-12T06:17:30.221Z - normal: Watching packages
+2019-10-12T06:17:31.487Z - normal: Run Application
+2019-10-12T06:17:38.487Z - success: i18n unloaded
+2019-10-12T06:17:39.113Z - success: i18n loaded
+2019-10-12T06:17:39.595Z - success: i18n unloaded
+2019-10-12T06:17:39.858Z - error: TypeError: Cannot read property 'i18n' of undefined
+    at HTMLElement._unloadSceneScript (file:///D:/CocosSetup/CocosCreator2.0.9/resources/app.asar/editor/builtin/scene/panel/scene.js:1:2677)
+    at HTMLElement.unload-package-scene-script (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:943)
+    at Object.e._dispatch (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-10-12T06:17:39.863Z - error: TypeError: Cannot set property 'i18n' of undefined
+    at HTMLElement._loadSceneScript (file:///D:/CocosSetup/CocosCreator2.0.9/resources/app.asar/editor/builtin/scene/panel/scene.js:1:2390)
+    at HTMLElement.load-package-scene-script (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:880)
+    at Object.e._dispatch (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-10-12T06:17:39.863Z - error: TypeError: Cannot read property 'i18n' of undefined
+    at HTMLElement._unloadSceneScript (file:///D:/CocosSetup/CocosCreator2.0.9/resources/app.asar/editor/builtin/scene/panel/scene.js:1:2677)
+    at HTMLElement.unload-package-scene-script (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:943)
+    at Object.e._dispatch (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-10-12T06:17:39.872Z - success: i18n loaded
+2019-10-12T06:17:40.043Z - error: TypeError: Cannot read property 'level' of undefined
+    at Object.exports.add (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\assets\panel\utils\cache.js:1:1717)
+    at Object.exports.add (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\assets\panel\utils\operation.js:1:2810)
+    at s.forEach.e (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\assets\panel\index.js:1:3340)
+    at Array.forEach (native)
+    at HTMLElement.asset-db:assets-created (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\assets\panel\index.js:1:3177)
+    at EventEmitter.i.function.t.on.e (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor-framework\lib\renderer\ui\panel\frame.js:1:3303)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:194:7)
+2019-10-12T06:17:41.158Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.exports.remove (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\assets\panel\utils\cache.js:1:1888)
+    at Object.exports.remove (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\assets\panel\utils\operation.js:1:2749)
+    at t.forEach.e (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\assets\panel\index.js:1:4240)
+    at Array.forEach (native)
+    at HTMLElement.asset-db:assets-deleted (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\assets\panel\index.js:1:4226)
+    at EventEmitter.i.function.t.on.e (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor-framework\lib\renderer\ui\panel\frame.js:1:3303)
+    at emitTwo (events.js:111:20)
+    at EventEmitter.emit (events.js:194:7)
+2019-10-12T06:17:41.211Z - error: TypeError: Cannot set property 'i18n' of undefined
+    at HTMLElement._loadSceneScript (file:///D:/CocosSetup/CocosCreator2.0.9/resources/app.asar/editor/builtin/scene/panel/scene.js:1:2390)
+    at HTMLElement.load-package-scene-script (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:880)
+    at Object.e._dispatch (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-10-12T06:17:41.279Z - error: TypeError: Cannot read property 'level' of undefined
+    at Object.exports.add (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\assets\panel\utils\cache.js:1:1717)
+    at Object.exports.add (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\assets\panel\utils\operation.js:1:2810)
+    at s.forEach.e (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\assets\panel\index.js:1:3340)
+    at Array.forEach (native)
+    at HTMLElement.asset-db:assets-created (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor\builtin\assets\panel\index.js:1:3177)
+    at EventEmitter.i.function.t.on.e (D:\CocosSetup\CocosCreator2.0.9\resources\app.asar\editor-framework\lib\renderer\ui\panel\frame.js:1:3303)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:194:7)
+2019-10-12T06:17:41.514Z - normal: No need to specify the "type" of "Tower.size" because cc.Size is a child class of ValueType.
+2019-10-12T06:23:13.617Z - normal: Introduced global variable while editing: CocosServicesUpdate
+2019-10-12T06:23:13.619Z - normal: Introduced global variable while editing: CocosServices
+2019-10-12T06:23:13.755Z - normal: No need to specify the "type" of "Tower.size" because cc.Size is a child class of ValueType.

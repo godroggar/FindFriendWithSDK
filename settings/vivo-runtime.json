@@ -1,0 +1,17 @@
+{
+  "certificatePath": "",
+  "deviceOrientation": "portrait",
+  "disabledMode": "disabled is-disabled",
+  "icon": "H:\\CocosProject\\FindFriendWithSDK\\icon\\256x256.png",
+  "logLevel": "log",
+  "minPlatformVersion": "1041",
+  "name": "migong",
+  "npmPath": "",
+  "package": "com.zqhs.mgqldzz.vivominigame",
+  "privatePath": "",
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": true,
+  "versionCode": "1",
+  "versionName": "1.0.0"
+}

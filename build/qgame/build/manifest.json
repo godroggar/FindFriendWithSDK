@@ -1,0 +1,15 @@
+{
+  "package": "com.zqhs.mgqldzz.vivominigame",
+  "name": "migong",
+  "icon": "/image/256x256.png",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1041",
+  "deviceOrientation": "portrait",
+  "type": "game",
+  "config": {
+    "logLevel": "log",
+    "debug": true
+  },
+  "display": {}
+}

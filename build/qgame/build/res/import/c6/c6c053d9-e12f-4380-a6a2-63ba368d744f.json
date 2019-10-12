@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "level_1_1",
+  "json": {
+    "bid": 1,
+    "mid": 1,
+    "title": "Classic",
+    "levels": [
+      {
+        "total_level": 25,
+        "gift": []
+      },
+      {
+        "total_level": 25,
+        "gift": []
+      },
+      {
+        "total_level": 25,
+        "gift": []
+      },
+      {
+        "total_level": 25,
+        "gift": []
+      },
+      {
+        "total_level": 25,
+        "gift": []
+      }
+    ]
+  }
+}
